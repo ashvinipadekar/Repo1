@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 4872-7135
+
+ Directory of C:\Users\lenovo\Desktop\gitdata
+
+21-04-2021  18:09    <DIR>          .
+21-04-2021  18:09    <DIR>          ..
+21-04-2021  18:09                 0 index.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  95,012,212,736 bytes free
